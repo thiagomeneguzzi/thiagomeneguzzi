@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thiago Meneguzzi! 👋
 
 - 🔭 Estagiário
-- 🌱 Estudando NodeJS e MongoDB
+- 🌱 Estudando NodeJS, MongoDB e Angular
 
 <div>
   <a href="https://github.com/thiagomeneguzzi">
