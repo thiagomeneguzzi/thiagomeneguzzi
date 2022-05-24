@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thiago Meneguzzi! 👋
 
 - 🔭 Estagiário
-- 🌱 Estudando para me tornar um desenvolvedor FullStack com conhecimento nas mais diversas tecnologias.
+- 🌱 Estudando tecnologias do conjunto MEAN Stack.
 
 <div>
   <a href="https://github.com/thiagomeneguzzi">
@@ -18,7 +18,6 @@
   <img align="center" alt="Thiago-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Thiago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Thiago-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Thiago-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
 </div>
 
   ##
