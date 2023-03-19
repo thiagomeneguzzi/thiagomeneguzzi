@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Thiago Meneguzzi! 👋
 
-- 🔭 Desenvolvedor júnior
-- 🌱 Estudando React
+- 🔭 Junior Developer
+- 🌱 Studying React
+- 💼 Front-End Developer at Nexfar
 
 <div style="display: flex;">
   <a href="https://github.com/thiagomeneguzzi">
