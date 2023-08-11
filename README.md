@@ -4,11 +4,20 @@
 - 🌱 Studying React
 - 💼 Front-End Developer at Nexfar
 
-<div style="display: flex;">
-  <a href="https://github.com/thiagomeneguzzi">
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api?username=thiagomeneguzzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="175rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomeneguzzi&layout=compact&langs_count=7&theme=dark"/>
+<div></div>
+
+  ##
+  
+<div>
+  <img align="left"  height="175rem" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomeneguzzi&theme=dark&border=61dafb&hide_border=true" alt="LeonardoGarciah" />
+  <img align="right"  height="175rem" src="https://github-readme-stats-ivory-phi-80.vercel.app/api?username=thiagomeneguzzi&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </div>
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
+<div align="center" style="display: flex;">
+  <img height="175rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagomeneguzzi&theme=dark&hide_border=true&langs_count=8&layout=compact&border_color=61dafb" />
+</div>
+  
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
