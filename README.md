@@ -9,12 +9,12 @@
   ##
   
 <div>
-  <img align="left"  height="175rem" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomeneguzzi&theme=dark&border=61dafb&hide_border=true" alt="LeonardoGarciah" />
-  <img align="right"  height="175rem" src="https://github-readme-stats-ivory-phi-80.vercel.app/api?username=thiagomeneguzzi&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+  <img align="left"  height="150rem" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomeneguzzi&theme=dark&border=61dafb&hide_border=true" alt="LeonardoGarciah" />
+  <img align="right"  height="150rem" src="https://github-readme-stats-ivory-phi-80.vercel.app/api?username=thiagomeneguzzi&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
 </div>
 <br> <br> <br> <br> <br> <br> <br> <br> <br>
 <div align="center" style="display: flex;">
-  <img height="175rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagomeneguzzi&theme=dark&hide_border=true&langs_count=8&layout=compact&border_color=61dafb" />
+  <img height="150rem" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagomeneguzzi&theme=dark&hide_border=true&langs_count=8&layout=compact&border_color=61dafb" />
 </div>
   
   ##
