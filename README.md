@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Thiago Meneguzzi! 👋
 
 - 🔭 Mid-Level Developer
-- 🌱 Studying React
+- 🌱 Studying NextJS
 - 💼 Front-End Developer at Nexfar
 
 <div></div>
